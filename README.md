@@ -23,3 +23,9 @@ git status
 git commit -m "titre du commit"
 git push origin main
 ```
+
+## Creation d'une branche
+
+```bash
+git checkout -b NOM_BRANCHE
+```
